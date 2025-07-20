@@ -1,0 +1,7 @@
+openai
+pandas
+networkx
+matplotlib
+neo4j
+python-dotenv
+jupyter
